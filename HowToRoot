@@ -1,0 +1,7 @@
+usare il comando:
+$ sudo su
+
+Poi andare su catkin_ws/devel e digitare il comando:
+$ source setup.bash
+
+Adesso si possono fare i roslaunch tranquillamente con i permessi root

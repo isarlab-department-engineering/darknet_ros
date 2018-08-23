@@ -1,0 +1,11 @@
+yolo_model:
+
+  config_file:
+    name: yolov3-duck.cfg
+  weight_file:
+    name: yolov3-duck_10000.weights
+  threshold:
+    value: 0.5
+  detection_classes:
+    names:
+      - duck
